@@ -29,12 +29,6 @@ const HeaderOptions = ({ toggleOptions }) => {
             Help
           </a>
         </li>
-        <li className="o_li">
-          <a href="/about">About</a>
-        </li>
-        <li className="o_li">
-          <a href="/developer">Developer</a>
-        </li>
         <li className="o_li o_divider">
           <hr className="menu_divider" />
         </li>
